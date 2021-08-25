@@ -1,4 +1,6 @@
-﻿CREATE TABLE [dbo].[datos]
+﻿--Creaer BD Ejemplo
+--
+CREATE TABLE [dbo].[datos]
 (
 	[Clave] INT NOT NULL PRIMARY KEY, 
     [nombre] NVARCHAR(50) NULL, 
